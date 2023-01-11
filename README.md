@@ -8,12 +8,12 @@
 ##MSC MACHINE LEARNING AND ARTIFICIAL INTELLIGENCE 
 
 
-### KEY FILES
-## BikeRental-Regression-Assignment.ipynb
-## bike rental data set (day.csv file) 
-## subjective questions pdf
-## Data dictionar: Readme.txt
-## README.md
+## KEY FILES
+#### 1.BikeRental-Regression-Assignment.ipynb
+#### 2.bike rental data set (day.csv file) 
+#### 3.subjective questions pdf
+#### 4.Data dictionar: Readme.txt
+#### 5.README.md
 
 
 > PROBLEM STATEMENT
