@@ -1,4 +1,5 @@
-# BOOM BIKE LINEAR REGRESSION ASSIGNMENT
+# BikeRental-Regression-Assignment![image](https://user-images.githubusercontent.com/6258852/211809625-a9620c78-e86f-47ed-aacc-f76fa933b9ed.png)
+
 
 ##SUBMITTED BY DR RANJEET SINGH MAHLA
 ##DATE JANUARY 11, 2023
