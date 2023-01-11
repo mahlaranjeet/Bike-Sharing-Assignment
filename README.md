@@ -106,5 +106,5 @@ MORE RENTAL OCCURED IN 2019, SO PEOPLE ARE TAKING IDEA AHEAD AND THESE CUSTOMERS
 -This project is submitted towards frist case study of MSC in AI and ML 
 
 ## Contact
-@mahlaranjeet
+https://github.com/mahlaranjeet
 mahlaranjeet@gmail.com
